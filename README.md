@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Amir
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Js & Bootstarp
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amirmohammadolyaii@gmail.com
 - 💬 Ask me about Html , Css
 

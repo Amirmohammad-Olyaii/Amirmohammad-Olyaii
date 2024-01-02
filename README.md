@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **React,React,Js,Bootstrap**
+- 💬 Ask me about **React,Js,Bootstrap**
 
 - 📫 How to reach me **amirmohammadolyaii@gmail.com**
 
